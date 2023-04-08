@@ -19,6 +19,7 @@ public class Analyzer {
          */
 //        String fileName = "game_data_0.txt";
 //        String fileName = "game_data_1.txt";
+
         String fileName = "game_data_2.txt";
         readFromFile(fileName);
         generateInstances();
